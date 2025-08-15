@@ -1,0 +1,106 @@
+{
+  "completed": [
+    {
+      "budgetEstimation": 39754360,
+      "code": -81838455,
+      "createdDate": "1979-04-09T07:18:05.768Z",
+      "endDate": "2004-12-29T09:25:07.209Z",
+      "id": -28000280,
+      "startDate": "1974-11-05T00:46:57.883Z",
+      "status": "est non deserunt et aute",
+      "totalParticipant": 69555973,
+      "trainingCategory": "est magna dolore occaecat",
+      "trainingName": "eu voluptat idcnidncdnc udchudhcudhc duhcudhvufhv"
+    },
+    {
+      "budgetEstimation": 18243192,
+      "code": -84460044,
+      "createdDate": "2022-03-24T05:13:41.053Z",
+      "endDate": "1970-08-02T02:58:39.632Z",
+      "id": 11086191,
+      "startDate": "1991-10-14T17:21:40.746Z",
+      "status": "aliquip cillum mollit se",
+      "totalParticipant": 79982538,
+      "trainingCategory": "eiusmod ea ad",
+      "trainingName": "reprehenderi jecbnejcjecb enbcejubcnejucn cejncjencjenc"
+    }
+  ],
+  "notComplete": [
+    {
+      "budgetEstimation": 44920081,
+      "code": 50204005,
+      "createdDate": "1995-07-04T08:05:44.596Z",
+      "endDate": "1966-06-20T01:50:03.070Z",
+      "id": -44507857,
+      "startDate": "1997-06-17T13:26:35.244Z",
+      "status": "in tempor nisi minim",
+      "totalParticipant": -13896121,
+      "trainingCategory": "do",
+      "trainingName": "qui esse officia aliqua ejncjencjencjenc ejncjencejcnejcnec ejcnejncejncjen"
+    },
+    {
+      "budgetEstimation": 68550941,
+      "code": -46778834,
+      "createdDate": "1956-09-08T21:40:21.209Z",
+      "endDate": "1985-05-16T17:36:13.477Z",
+      "id": 67945214,
+      "startDate": "2002-09-15T18:47:35.425Z",
+      "status": "officia consequat",
+      "totalParticipant": 74266684,
+      "trainingCategory": "in non",
+      "trainingName": "Ut nostrud cnecnenencejnc encejnjencejcn ejvnjrnvjrnv"
+    }
+  ],
+  "onSchedule": [
+    {
+      "budgetEstimation": -1384679,
+      "code": 95505425,
+      "createdDate": "1968-08-28T04:30:40.439Z",
+      "endDate": "2018-10-12T14:56:00.345Z",
+      "id": 58922477,
+      "startDate": "1953-12-20T04:05:29.317Z",
+      "status": "cupidatat exercitation dolore occaecat amet",
+      "totalParticipant": -1426852,
+      "trainingCategory": "velit",
+      "trainingName": "in nulla jfnvjfnvjfnjnv jfnvjfnvjfnvn ekdefnjenfjenejnf"
+    },
+    {
+      "budgetEstimation": 38877766,
+      "code": -63002467,
+      "createdDate": "2002-03-14T04:18:53.416Z",
+      "endDate": "1987-09-14T01:26:14.916Z",
+      "id": -42920182,
+      "startDate": "2002-12-16T14:26:55.471Z",
+      "status": "sint ullamco aliquip",
+      "totalParticipant": -39601706,
+      "trainingCategory": "pariatur ip",
+      "trainingName": "est Excepteur enejnfjenfjenf kgmktmgktmgktgkm rnrjn"
+    }
+  ],
+  "notAttend": [
+    {
+      "budgetEstimation": -1384679,
+      "code": 95505425,
+      "createdDate": "1968-08-28T04:30:40.439Z",
+      "endDate": "2018-10-12T14:56:00.345Z",
+      "id": 58922477,
+      "startDate": "1953-12-20T04:05:29.317Z",
+      "status": "cupidatat exercitation dolore occaecat amet",
+      "totalParticipant": -1426852,
+      "trainingCategory": "velit",
+      "trainingName": "in nullahbbhb rufhurhfurfhurf urhfurhf urfhruhf"
+    },
+    {
+      "budgetEstimation": 38877766,
+      "code": -63002467,
+      "createdDate": "2002-03-14T04:18:53.416Z",
+      "endDate": "1987-09-14T01:26:14.916Z",
+      "id": -42920182,
+      "startDate": "2002-12-16T14:26:55.471Z",
+      "status": "sint ullamco aliquip",
+      "totalParticipant": -39601706,
+      "trainingCategory": "pariatur ip",
+      "trainingName": "est Excepteur urfurnfurnf urfurfnurfnurnf rufhurfurfru"
+    }
+  ]
+}

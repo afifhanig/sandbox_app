@@ -1,0 +1,176 @@
+{
+  "testName": "mobile Fish",
+  "totalParticipant": 0,
+  "createdDate": "04/08/2023 , 08:30",
+  "minimumScore": 70807,
+  "questions": [
+    {
+      "questionId": 1,
+      "answer": "A",
+      "question": "Hewan Berkaki 4 adalah? ",
+      "optionsType": "MULTIPLE_CHOICE",
+      "options": [
+        {
+          "key": "monyet",
+          "value": "Monyet"
+        },
+        {
+          "key": "sapi",
+          "value": "Sapi"
+        },
+        {
+          "key": "kaki seribu",
+          "value": "Kaki Seribu"
+        },
+        {
+          "key": "elang",
+          "value": "Elang"
+        }
+      ],
+      "questionPage": 1
+    },
+    {
+      "questionId": 2,
+      "answer": "A",
+      "question": "masuk awal",
+      "optionsType": "MULTIPLE_CHOICE",
+      "options": [
+        {
+          "key": "A2",
+          "value": "IDN2"
+        },
+        {
+          "key": "B2",
+          "value": "SGD2"
+        },
+        {
+          "key": "C2",
+          "value": "SGD2"
+        },
+        {
+          "key": "D2",
+          "value": "SGD2"
+        }
+      ],
+      "questionPage": 1
+    },
+    {
+      "questionId": 3,
+      "answer": ["A","B","C"],
+      "question": "CHECKBOX",
+      "optionsType": "CHECKBOX_CHOICE",
+      "options": [
+        {
+          "key": "Acek",
+          "value": "IDN4"
+        },
+        {
+          "key": "Bcek",
+          "value": "SGb4"
+        },
+        {
+          "key": "Ccek",
+          "value": "SGc4"
+        },
+        {
+          "key": "Dcek",
+          "value": "SGD4"
+        }
+      ],
+      "questionPage": 1
+    },
+    {
+      "questionId": 4,
+      "answer": "A",
+      "question": "sebelum terakhir",
+      "optionsType": "MULTIPLE_CHOICE",
+      "options": [
+        {
+          "key": "A3",
+          "value": "IDN3"
+        },
+        {
+          "key": "B3",
+          "value": "SGD3"
+        },
+        {
+          "key": "C3",
+          "value": "SGD3"
+        },
+        {
+          "key": "D3",
+          "value": "SGD3"
+        }
+      ],
+      "questionPage": 2
+    },
+    {
+      "questionId": 5,
+      "answer": "A",
+      "question": " terkahir",
+      "optionsType": "MULTIPLE_CHOICE",
+      "options": [
+        {
+          "key": "A4",
+          "value": "IDN4"
+        },
+        {
+          "key": "B4",
+          "value": "SGD4"
+        },
+        {
+          "key": "C4",
+          "value": "SGD4"
+        },
+        {
+          "key": "D4",
+          "value": "SGD4"
+        }
+      ],
+      "questionPage": 2
+    },
+
+    {
+      "questionId": 6,
+      "answer": "A",
+      "question": "ESSAY",
+      "optionsType": "ESSAY_CHOICE",
+      "options": [],
+      "questionPage": 2
+    },
+    {
+      "questionId": 7,
+      "answer": "A",
+      "question": "ESSAY",
+      "optionsType": "ESSAY_CHOICE",
+      "options": [],
+      "questionPage": 3
+    },
+    {
+      "questionId": 8 ,
+      "answer": "A",
+      "question": "DROPDOWN",
+      "optionsType": "DROPDOWN_CHOICE",
+      "options": [
+        {
+          "key": "1a",
+          "value": "1b abc"
+        },
+        {
+          "key": "2a",
+          "value": "2b def"
+        },
+        {
+          "key": "3a",
+          "value": "3b ghe"
+        },
+        {
+          "key": "4a",
+          "value": "4b fyed"
+        }
+      ],
+      "questionPage": 3
+    }
+  ],
+  "trainingTestId": 1
+}

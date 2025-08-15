@@ -1,0 +1,25 @@
+{
+    "testName": "mobile Fish",
+    "totalParticipant": 0,
+    "createdDate": "04/08/2023 , 08:30",
+    "minimumScore": 70807,
+    "questions": [
+        {
+            "questionId": 0,
+            "answer": "A",
+            "question": "pertanyaan",
+            "optionsType": "MULTIPLE_CHOICE",
+           
+            "questionPage": 1
+        },
+        {
+            "questionId": 0,
+            "answer": "A",
+            "question": "pertanyaan",
+            "optionsType": "MULTIPLE_CHOICE",
+           
+            "questionPage": 2
+        }
+    ],
+    "trainingTestId": 1
+}

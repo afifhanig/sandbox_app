@@ -1,0 +1,297 @@
+
+{
+  "trainingTestId": 1,
+  "testName": "mobile Fish",
+  "totalParticipant": 0,
+  "createdDate": "04/08/2023 , 08:30",
+  "minimumScore": 70807,
+  "questionTotal": 8,
+  "questions": [
+    {
+      "questionId": 1,
+      "questionNo": 1,
+      "answer": [
+        "ikan"
+      ],
+      "question": "Hewan bersirip ihewhewe hwuehwuiehiwue hwjuehwuehwueh hwuehwuiehiuwe hweuhewuieh hwuehwuie?",
+      "optionsType": "MULTIPLE_CHOICE",
+      "options": [
+        {
+          "key": "ikan",
+          "value": "Ikan"
+        },
+        {
+          "key": "sapi",
+          "value": "Sapi"
+        },
+        {
+          "key": "badak",
+          "value": "Badak"
+        },
+        {
+          "key": "singa",
+          "value": "Singa"
+        }
+      ]
+    },
+    {
+
+      "questionId": 2,
+      "questionNo": 2,
+      "answer": [
+        "A2"
+      ],
+      "question": "masuk awal",
+      "optionsType": "MULTIPLE_CHOICE",
+      "options": [
+        {
+          "key": "A2",
+          "value": "IDN2"
+        },
+        {
+          "key": "B2",
+          "value": "SGD2"
+        },
+        {
+          "key": "C2",
+          "value": "SGD2"
+        },
+        {
+          "key": "D2",
+          "value": "SGD2"
+        }
+      ]
+    },
+    {
+
+      "questionId": 3,
+      "questionNo": 3,
+      "answer": ["A","B","C"],
+      "question": "CHECKBOX",
+      "optionsType": "CHECKBOX_CHOICE",
+      "options": [
+        {
+          "key": "Acek",
+          "value": "IDN4"
+        },
+        {
+          "key": "Bcek",
+          "value": "SGb4"
+        },
+        {
+          "key": "Ccek",
+          "value": "SGc4"
+        },
+        {
+          "key": "Dcek",
+          "value": "SGD4"
+        }
+      ]
+    },
+    {
+      "questionId": 4,
+      "questionNo": 4,
+      "answer": ["A"],
+      "question": "sebelum terakhir",
+      "optionsType": "MULTIPLE_CHOICE",
+      "options": [
+        {
+          "key": "A3",
+          "value": "IDN3"
+        },
+        {
+          "key": "B3",
+          "value": "SGD3"
+        },
+        {
+          "key": "C3",
+          "value": "SGD3"
+        },
+        {
+          "key": "D3",
+          "value": "SGD3"
+        }
+      ]
+    },
+    {
+      "questionId": 5,
+      "questionNo": 5,
+      "answer": ["A"],
+      "question": " terkahir",
+      "optionsType": "MULTIPLE_CHOICE",
+      "options": [
+        {
+          "key": "A4",
+          "value": "IDN4"
+        },
+        {
+          "key": "B4",
+          "value": "SGD4"
+        },
+        {
+          "key": "C4",
+          "value": "SGD4"
+        },
+        {
+          "key": "D4",
+          "value": "SGD4"
+        }
+      ]
+    },
+    {
+
+      "questionId": 6,
+      "questionNo": 6,
+      "answer": ["A"],
+      "question": "ESSAY",
+      "optionsType": "ESSAY_CHOICE",
+      "options": []
+    },
+    {
+      "questionId": 7,
+      "questionNo": 7,
+      "answer": ["A"],
+      "question": "ESSAY",
+      "optionsType": "ESSAY_CHOICE",
+      "options": []
+    },
+    {
+      "questionId": 8 ,
+      "questionNo": 8,
+      "answer": ["1a"],
+      "question": "DROPDOWN",
+      "optionsType": "DROPDOWN_CHOICE",
+      "options": [
+        {
+          "key": "1a",
+          "value": "1b abc"
+        },
+        {
+          "key": "2a",
+          "value": "2b def"
+        },
+        {
+          "key": "3a",
+          "value": "3b ghe"
+        },
+        {
+          "key": "4a",
+          "value": "4b fyed"
+        }
+
+      ]
+    },
+    {
+      "questionId": 9,
+      "questionNo": 9,
+      "answer": ["A"],
+      "question": "ESSAY",
+      "optionsType": "ESSAY_CHOICE",
+      "options": []
+    },
+    {
+      "questionId": 10 ,
+      "questionNo": 10,
+      "answer": ["1a"],
+      "question": "DROPDOWN",
+      "optionsType": "DROPDOWN_CHOICE",
+      "options": [
+        {
+          "key": "1a",
+          "value": "1b abc"
+        },
+        {
+          "key": "2a",
+          "value": "2b def"
+        },
+        {
+          "key": "3a",
+          "value": "3b ghe"
+        },
+        {
+          "key": "4a",
+          "value": "4b fyed"
+        }
+
+      ]
+    },
+    {
+      "questionId": 11 ,
+      "questionNo": 11,
+      "answer": ["1a"],
+      "question": "DROPDOWN",
+      "optionsType": "DROPDOWN_CHOICE",
+      "options": [
+        {
+          "key": "1a",
+          "value": "1b abc"
+        },
+        {
+          "key": "2a",
+          "value": "2b def"
+        },
+        {
+          "key": "3a",
+          "value": "3b ghe"
+        },
+        {
+          "key": "4a",
+          "value": "4b fyed"
+        }
+
+      ]
+    },
+    {
+
+      "questionId": 12,
+      "questionNo": 12,
+      "answer": ["A","B","C"],
+      "question": "CHECKBOX",
+      "optionsType": "CHECKBOX_CHOICE",
+      "options": [
+        {
+          "key": "Acek",
+          "value": "IDN4"
+        },
+        {
+          "key": "Bcek",
+          "value": "SGb4"
+        },
+        {
+          "key": "Ccek",
+          "value": "SGc4"
+        },
+        {
+          "key": "Dcek",
+          "value": "SGD4"
+        }
+      ]
+    },
+    {
+
+      "questionId": 13,
+      "questionNo": 13,
+      "answer": ["A","B","C"],
+      "question": "CHECKBOX",
+      "optionsType": "CHECKBOX_CHOICE",
+      "options": [
+        {
+          "key": "Acek",
+          "value": "IDN4"
+        },
+        {
+          "key": "Bcek",
+          "value": "SGb4"
+        },
+        {
+          "key": "Ccek",
+          "value": "SGc4"
+        },
+        {
+          "key": "Dcek",
+          "value": "SGD4"
+        }
+      ]
+    }
+  ]
+}
